@@ -152,7 +152,7 @@ main {
 .curtainContainer .curtain {width: 300%; height: 1px; background-color: #000000; position: absolute; top: 25%; left: 0; opacity: 0}
 .curtainContainer .copy {position: absolute; bottom: 30%; left: 0; width: 100%; text-align: center;}
 
-#slide-4 .bcg {background-image:url('../img/bcg_slide-4.jpg')}
+#slide-4 .bcg {background-image:url('../img/bcg_slide-3.jpg')}
 
 /* Slide 5 */
 #slide-5 {position: relative;}
@@ -229,12 +229,14 @@ main {
 		font-size: 45px;
 		line-height: 48px;
 		margin-bottom: 12px;
+		font-family: "georgia"; 
 	}
 	.hsContent2 p {
 		width: 500px;
 		margin: 0 auto;
-		color: #b2b2b2;
+		color: #ffffff;
 		text-align: justify; 
+		font-size: 17px; 
 	}
 	.hsContent2 a {
 		color: #b2b2b2;
